@@ -8,9 +8,17 @@ ProductTag.init(
   {
     tag_id: {
       type: DataTypes.INTEGER,
-      allowNull: false,
-      primaryKey: true,
-      autoIncrement: true,
+      references: {
+        model: 'tag',
+        key: 'id',
+      },
+    },
+    product_id: {
+      type: DataTypes.INTEGER,
+      references: {
+        model: 'product',
+        key: 'id',
+      },
     },
   },
   {
