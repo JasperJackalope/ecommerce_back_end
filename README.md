@@ -26,10 +26,10 @@ You will need to have MySQL installed on your system, which can be accessed at: 
 
 ## Contributing
 
-Starter code was provided by our instructors Bryan and Shawn. 
+Starter code was provided by our instructors Bryan and Shawn. I used W3 Schools as a textbook along with previous class lessons to provide structue and code examples. Finally, I used Chat GPT to find puncutation errors. 
 
 ## Questions
 
 Link to the GitHub repository: https://github.com/JasperJackalope/ecommerce_back_end
 
-Link to the walk-through video:
+Link to the walk-through video: https://drive.google.com/file/d/1GnBkXZxLF4mGEsP-BnqUTsCODmaGvqWE/view?usp=share_link
