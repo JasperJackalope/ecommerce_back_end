@@ -30,6 +30,6 @@ Starter code was provided by our instructors Bryan and Shawn.
 
 ## Questions
 
-Link to the GitHub repository:
+Link to the GitHub repository: https://github.com/JasperJackalope/ecommerce_back_end
 
 Link to the walk-through video:
